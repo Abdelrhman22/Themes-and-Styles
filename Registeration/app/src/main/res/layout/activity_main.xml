@@ -78,10 +78,10 @@
                 android:layout_height="wrap_content">
                 <CheckBox
                     android:background="@drawable/custom_checkbox"
-                    android:checked="true"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
                 <CheckBox
+                    android:checked="true"
                     android:background="@drawable/custom_checkbox"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
