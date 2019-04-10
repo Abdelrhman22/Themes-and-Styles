@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registeration</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="football">Football</string>
+    <string name="chess">Playing Chess</string>
+    <string name="diving">Diving</string>
+    <string name="coding">Coding</string>
+    <string name="swiming">Swiming</string>
+</resources>
